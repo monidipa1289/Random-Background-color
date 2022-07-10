@@ -1,0 +1,16 @@
+body{
+     width: 100vw;
+      height: 100vh;
+     
+     background-color:aqua;
+     color: black;
+}
+div{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+h2{
+    margin-top:5px ;
+    margin-bottom: 10px;
+}
